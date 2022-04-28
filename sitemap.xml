@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ludovicdmt.github.io/ludodarmet/markdown/2022/01/01/SSVEP-comfort.html</loc>
+<loc>https://ludovicdmt.github.io/ludodarmet/research/ssvep/2022/01/01/SSVEP-comfort.html</loc>
 <lastmod>2022-01-01T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://ludovicdmt.github.io/ludodarmet/2022/04/27/_06_06_keras_CNN.html</loc>
+<lastmod>2022-04-27T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://ludovicdmt.github.io/ludodarmet/about/</loc>
@@ -15,5 +19,8 @@
 </url>
 <url>
 <loc>https://ludovicdmt.github.io/ludodarmet/categories/</loc>
+</url>
+<url>
+<loc>https://ludovicdmt.github.io/ludodarmet/about/</loc>
 </url>
 </urlset>
