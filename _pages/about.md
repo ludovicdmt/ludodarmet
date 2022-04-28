@@ -11,9 +11,9 @@ Since March 2021, I am part of the [neuro-ergonomics and human-factors departmen
 ## Skills
 
 <ul class="feature-icons">
-<li class="icon solid fa-flask">Machine Learning and Artificial Intelligence</li>
-<li class="icon solid fa-code">Python, MATLAB, GitHub, Pytorch, Tensorflow </li>
-<li class="icon solid fa-book">Scientific writing & editing</li>
-<li class="icon solid fa-bullhorn">Teaching & Dissemination</li>
-<li class="icon solid fa-compass">Project management</li>
+<li class="icon solid fa-flask"> Machine Learning and Artificial Intelligence</li>
+<li class="icon solid fa-code"> Python, MATLAB, GitHub, Pytorch, Tensorflow </li>
+<li class="icon solid fa-book"> Scientific writing & editing</li>
+<li class="icon solid fa-bullhorn"> Teaching & Dissemination</li>
+<li class="icon solid fa-compass"> Project management</li>
 </ul>
