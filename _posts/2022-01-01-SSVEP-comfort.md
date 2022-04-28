@@ -4,6 +4,8 @@ layout: post
 description: Our latest research work on improving comfort with SSVEP-based BCI.
 categories: [markdown]
 title: High frequencies and low amplitude SSVEP
+categories: [research, SSVEP]
+image: images/onlineT9.png
 ---
 # High frequencies and low amplitude SSVEP-based BCI
 
