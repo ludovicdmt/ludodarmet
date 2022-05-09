@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: "🧑‍🏫 Teaching"
 permalink: /teaching/
 ---
 I have taught the following courses:  
