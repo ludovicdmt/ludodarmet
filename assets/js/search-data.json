@@ -14,9 +14,9 @@
     
         ,"post1": {
             "title": "Towards model-based flexible and adaptive image forensics",
-            "content": "class PDF(object): def __init__(self, pdf, size=(200,200)): self.pdf = pdf self.size = size def _repr_html_(self): return &#39;&lt;iframe src={0} width={1[0]} height={1[1]}&gt;&lt;/iframe&gt;&#39;.format(self.pdf, self.size) def _repr_latex_(self): return r&#39; includegraphics[width=1.0 textwidth]{{{0}}}&#39;.format(self.pdf) . PDF(&#39;./files/PhD_defence_DARMET.pdf&#39;,size=(1200,1000)) . &lt;iframe src=./files/PhD_defence_DARMET.pdf width=1200 height=1000&gt;&lt;/iframe&gt;",
-            "url": "https://ludovicdmt.github.io/ludodarmet/2020/12/01/PhD-Defence.html",
-            "relUrl": "/2020/12/01/PhD-Defence.html",
+            "content": "Towards model-based flexible and adaptive image forensics . Slides from my PhD thesis defence . A quick overview of my work during these 3 years of PhD. . This browser does not support PDFs. Please download the PDF to view it: Download PDF. . &lt;/embed&gt;",
+            "url": "https://ludovicdmt.github.io/ludodarmet/research/image%20forensics/2020/12/01/phd-thesis-defence.html",
+            "relUrl": "/research/image%20forensics/2020/12/01/phd-thesis-defence.html",
             "date": " • Dec 1, 2020"
         }
         
