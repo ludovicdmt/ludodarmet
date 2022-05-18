@@ -5,7 +5,7 @@ description: A quick overview of my work during these 3 years of PhD
 categories: [markdown]
 title: Towards model-based flexible and adaptive image forensics
 categories: [research, image forensics]
-image: images/onlineT9.png
+image: images/defence.png
 ---
 
 # Towards model-based flexible and adaptive image forensics
